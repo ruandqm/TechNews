@@ -1,18 +1,10 @@
-# TesteRuan
+A React app in TypeScript that displays news based on selected categories (business, entertainment, general, health, science, sports, technology) with simple authentication (register and login) and direct links to the news.
 
-API: https://newsapi.org/
+---
 
-Fazer um site em react onde mostre noticias de uma determinada categoria oferecida pela API (business, entertainment, general, health, science, sports, technology)
+## 🚀 Features
 
-Necessários:
-
-Autenticação simples (registro + login)
-uma UX/UI simples, funcional e bem estruturada
-link direto para a noticia
-Linguagem: typescript
-
-O que será avaliado:
-Qualidade de código
-git
-
-Boa sorte.
+- User authentication (register and login)
+- News filtered by category
+- Direct link to full news articles
+- Simple and responsive UI
